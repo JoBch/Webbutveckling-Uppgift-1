@@ -1,0 +1,6 @@
+servlet\CoursesServlet.class
+org\WebL01\resources\JavaEE8Resource.class
+servlet\AttendanceServlet.class
+org\WebL01\JAXRSConfiguration.class
+servlet\LoginServlet.class
+servlet\StudentsServlet.class
